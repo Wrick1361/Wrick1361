@@ -32,9 +32,13 @@ Innovative Data Scientist with 6+ years of experience in Software Development an
 
 • 6+ years of experience in Software Development including Analysis, and Development Python environments.
 
+• Worked for industry clients and have experience working with Finance, RealEstate, Manufacturing, Public Sector.
+
 • Experience in Functional and Object-Oriented Programming styles of Python.
 
-• Worked for industry clients and have experience working with Finance, RealEstate, Manufacturing, Public Sector.
+• AWS Solutions Architect - Associate
+
+• Worked in Azure IaaS
 
 
 Skills
